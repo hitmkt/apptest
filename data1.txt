@@ -1,0 +1,2 @@
+- image_thumb: 
+  image_alt: 폐기물F:\1.hitmkt\build\alpha(고물상)
